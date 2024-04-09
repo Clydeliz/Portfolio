@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+
+table {
+border-collapse: collapse;
+text-align: center;
+width: 25%;
+}
+li{
+    font-size: 130%;
+}

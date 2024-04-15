@@ -1,12 +1,16 @@
 body {
-    background-color: aliceblue;
+    background-color:black;
 }
 
 table {
 border-collapse: collapse;
 text-align: center;
 width: 25%;
+background-color: white;
+font-family: "Bebas Neue";
 }
-li{
-    font-size: 130%;
+
+h1, li, h2 , p, label {
+    color: white;
+    font-family:"Bebas Neue";
 }

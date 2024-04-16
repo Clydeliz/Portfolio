@@ -2,6 +2,11 @@ body {
     background-color:black;
 }
 
+.perfil img {
+    border-radius: 50%;
+    right: 30px;
+}
+
 table {
 border-collapse: collapse;
 text-align: center;
@@ -13,21 +18,56 @@ font-family: "Bebas Neue";
 h1, li, h2 , p, label {
     color: white;
     font-family:"Bebas Neue";
+    font-size: 20px;
 }
-.btn-link {
+.botao {
     text-decoration: none;
     border-radius: 3px;
     width: 140px;
     text-align: center;
     padding: 10px;
     font-family: "Bebas Neue";
-    font-size: 16px;
+    font-size: 20px;
     background-color: gainsboro;
     color: black;
     position: fixed;
     bottom: 880px;
     right: 30px;
 }
-.btn-link:hover {
+.botao:hover {
     box-shadow: 2px 2px 2px red;
+    animation-name: animacao;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes animacao {
+    0%{
+        transform: scale(1);
+    }
+
+    100%{
+        transform: scale(1.05);
+    }
+}
+
+.whatsapp-link {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+
+.fa-whatsapp {
+    margin-top: 16px;
 }

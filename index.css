@@ -28,13 +28,37 @@ h1, li, h2 , p, label {
     padding: 10px;
     font-family: "Bebas Neue";
     font-size: 20px;
-    background-color: gainsboro;
+    background-color: #7B7979;
+    color: black;
+    position: fixed;
+    bottom: 880px;
+    right: 191px;
+}
+.botao:hover {
+    box-shadow: 2px 2px 2px red;
+    animation-name: animacao;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.botao_redes {
+    text-decoration: none;
+    border-radius: 3px;
+    width: 140px;
+    text-align: center;
+    padding: 10px;
+    font-family: "Bebas Neue";
+    font-size: 20px;
+    background-color: #7B7979;
     color: black;
     position: fixed;
     bottom: 880px;
     right: 30px;
 }
-.botao:hover {
+
+.botao_redes:hover{
     box-shadow: 2px 2px 2px red;
     animation-name: animacao;
     animation-duration: 0.5s;
@@ -70,4 +94,8 @@ h1, li, h2 , p, label {
 
 .fa-whatsapp {
     margin-top: 16px;
+}
+
+.botao, .botao_redes {
+    display: flex;
 }

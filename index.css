@@ -2,9 +2,11 @@ body {
     background-color:black;
 }
 
-.perfil img {
+#perfil img {
     border-radius: 50%;
-    right: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 table {
@@ -35,7 +37,7 @@ h1, li, h2 , p, label {
     right: 191px;
 }
 .botao:hover {
-    box-shadow: 2px 2px 2px red;
+    box-shadow: 2px 2px 2px white;
     animation-name: animacao;
     animation-duration: 0.5s;
     animation-timing-function: ease-in-out;
@@ -59,7 +61,7 @@ h1, li, h2 , p, label {
 }
 
 .botao_redes:hover{
-    box-shadow: 2px 2px 2px red;
+    box-shadow: 2px 2px 2px white;
     animation-name: animacao;
     animation-duration: 0.5s;
     animation-timing-function: ease-in-out;
@@ -94,8 +96,4 @@ h1, li, h2 , p, label {
 
 .fa-whatsapp {
     margin-top: 16px;
-}
-
-.botao, .botao_redes {
-    display: flex;
 }

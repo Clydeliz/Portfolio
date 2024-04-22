@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T10:56:37.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7vjRt1bYgAeq4jiNJXMZ" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T10:58:27.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="x2V9sNcOHwL6cj9RP9je" version="24.2.7" type="github">
   <diagram name="Página-1" id="6xV3D6INDNXBhhLYE4Uh">
     <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,19 +25,19 @@
         <mxCell id="GgKt4T0a4a8YH8Q7J1RL-19" value="Tabela" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="290" width="290" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8bX_NoRAhbhWZDgvNLTH-1" value="whatsapp" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8bX_NoRAhbhWZDgvNLTH-1" value="whatsapp" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="660" y="510" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8bX_NoRAhbhWZDgvNLTH-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="8bX_NoRAhbhWZDgvNLTH-3" value="Foto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="400" y="10" width="85" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="8bX_NoRAhbhWZDgvNLTH-4" value="Botão HOME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8bX_NoRAhbhWZDgvNLTH-4" value="Botão HOME" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="20" width="80" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="8bX_NoRAhbhWZDgvNLTH-5" value="Botão Redes Sociais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8bX_NoRAhbhWZDgvNLTH-5" value="Botão Redes Sociais" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="20" width="80" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="8bX_NoRAhbhWZDgvNLTH-7" value="Formulário" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8bX_NoRAhbhWZDgvNLTH-7" value="Formulário" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="450" width="290" height="80" as="geometry" />
         </mxCell>
       </root>

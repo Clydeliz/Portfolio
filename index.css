@@ -34,7 +34,7 @@ h1, li, h2 , p, label {
     color: black;
     position: fixed;
     bottom: 880px;
-    right: 191px;
+    right: 192px;
 }
 .botao:hover {
     box-shadow: 2px 2px 2px white;
